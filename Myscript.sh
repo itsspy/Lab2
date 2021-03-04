@@ -1,4 +1,4 @@
 #!/bin/bash
-mkdir /test
+sudo mkdir /test
 date > /test/date.txt
 echo "$/test/date.txt"
